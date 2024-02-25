@@ -1,0 +1,27 @@
+dateModified: 1708824663
+email:
+  fromEmail: you@email.com
+  fromName: 'Craft Start'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1fa79a12-89d1-4c67-955c-c2015faa493f: 'Craft Start' # Craft Start
+    99cfa43f-66b2-4c6e-91a8-9f243b05c6d5: Common # Common
+    1955e111-4698-4e54-bcda-13d64c1396c1: 'Craft Start' # Craft Start
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: pro
+  live: true
+  name: 'Craft Start'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
