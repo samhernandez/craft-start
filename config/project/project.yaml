@@ -1,6 +1,6 @@
-dateModified: 1708824663
+dateModified: 1732226243
 email:
-  fromEmail: you@email.com
+  fromEmail: sam.a.hernandez@gmail.com
   fromName: 'Craft Start'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
@@ -17,7 +17,7 @@ system:
   edition: pro
   live: true
   name: 'Craft Start'
-  schemaVersion: 4.5.3.0
+  schemaVersion: 5.5.0.0
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
